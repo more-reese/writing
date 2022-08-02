@@ -1,8 +1,8 @@
+*Published with [PubDAO](https://pubdao.co/) on [Decrypt](https://decrypt.co/resources/what-is-moloch-dao-funding-public-goods-ethereum-ecosystem), April 2022*
+
 # What is Moloch DAO?
 ### Funding Public Goods in the Ethereum Ecosystem
 #### Moloch DAO is a decentralized autonomous organization that funds public goods projects to improve the Ethereum ecosystem.
-
-*Published with [PubDAO](https://pubdao.co/) on [Decrypt](https://decrypt.co/resources/what-is-moloch-dao-funding-public-goods-ethereum-ecosystem), April 2022*
 
 Part product of biblical lore and part collection of enthusiastic Ethereum experts, Moloch DAO is all about creating a better future.
 
