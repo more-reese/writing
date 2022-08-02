@@ -1,6 +1,6 @@
-# The Rise of DAOs (in) Culture
-
 *Submitted to [DAO Heat's writing competition](https://twitter.com/banklessdao/status/1491087173835231234?s=21&t=l1AlsNAnj6kG0D3eRW2u-A), February 2022*
+
+# The Rise of DAOs (in) Culture
 
 Decentralized autonomous organizations (DAOs) are a function of culture and not the other way around. Culture is old, DAOs are new. Both terms are overused, probably.
 
