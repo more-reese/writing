@@ -1,10 +1,8 @@
-# What are governance tokens?
-
-### How Token Owners Shape a DAO's Direction
-
-#### How are decisions made for billion-dollar protocols like Uniswap, Maker, and PancakeSwap? The answer, in part, is through governance tokens.
-
 *Published with [PubDAO](https://pubdao.co/) on [Decrypt](https://decrypt.co/resources/what-are-governance-tokens-how-token-owners-shape-dao), March 2022*
+
+# What are governance tokens?
+### How Token Owners Shape a DAO's Direction
+#### How are decisions made for billion-dollar protocols like Uniswap, Maker, and PancakeSwap? The answer, in part, is through governance tokens.
 
 Blockchain technology has opened up a world of new possibilities. From decentralized finance (DeFi) to digital scarcity and ownership through NFTs, there’s been an explosion of innovation around products, services, and platforms.
 
