@@ -14,5 +14,8 @@
 - Micro Moments Matter in DAOs. April 2022. [Link](https://blog.tally.xyz/micro-moments-matter-in-daos-36483a561f58)
 
 ## Crypto ELI8 Series
+Crypto ELI8: Series Guide
 
 ## Other
+
+
