@@ -1,6 +1,7 @@
 # Published Writing
 
 ## Decrypt Learn
+- How are NFTs stored? August 2022. [Link](https://decrypt.co/resources/how-are-nfts-stored-on-chain-off-chain-and-decentralized-storage)
 - What are the different types of bitcoin nodes? July 2022. [Link](https://decrypt.co/resources/what-are-the-different-types-of-bitcoin-nodes-how-the-bitcoin-network-is-maintained).
 - What are Soulbound Tokens? June 2022. [Link](https://decrypt.co/resources/what-are-soulbound-tokens-building-blocks-for-a-web3-decentralized-society).
 - What is the ERC-1155 token standard? June 2022. [Link](https://decrypt.co/resources/what-is-erc-1155-ethereums-flexible-token-standard).
