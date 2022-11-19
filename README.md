@@ -12,6 +12,7 @@
 - What are governance tokens? March 2022. [Link](https://decrypt.co/resources/what-are-governance-tokens-how-token-owners-shape-dao).
 
 ## Tally
+- A Pocket Guide to DAO Frameworks. October 2022. [Link](https://blog.tally.xyz/a-pocket-guide-to-dao-frameworks-8d7ad5af3a1b)
 - Micro Moments Matter in DAOs. April 2022. [Link](https://blog.tally.xyz/micro-moments-matter-in-daos-36483a561f58)
 
 ## Crypto ELI8 Series
