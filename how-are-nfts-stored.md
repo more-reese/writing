@@ -1,4 +1,4 @@
-Published with (PubDAO)[https://pubdao.co/] on Decrypt, July 2022
+Published with [PubDAO](https://pubdao.co/) on Decrypt, August 2022
 # How Are NFTs Stored? On-Chain, Off-Chain and Decentralized Storage
 The data that makes up the content of NFTs needs to be stored somewhere—but not all NFT storage techniques are created equal.
 
